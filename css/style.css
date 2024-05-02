@@ -44,6 +44,15 @@ body {
     justify-content: center;
 }
 
+.img-fluid {
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
 
 .container-c {
 
