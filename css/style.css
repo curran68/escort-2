@@ -46,7 +46,6 @@ body {
 
 
 .container-c {
-    height: 60vh;
 
     background: url ("../images/rs-mexico.jpg") no-repeat center center;
 
@@ -82,7 +81,7 @@ body {
 }
 
 
-    #model {
+#model {
     background-color: #fff; 
 
 }
