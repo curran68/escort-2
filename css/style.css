@@ -48,7 +48,7 @@ body {
 .container-c {
     height: 60vh;
 
-    background: url("../images/ford-escort-rs1800.jpg") no-repeat center center;
+    background: url("../images/rs-mexico.jpg") no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -64,6 +64,7 @@ body {
 .container-d {
     background-color:#000;
     color: white;
+
 }
 
 .btn-success {
@@ -76,26 +77,41 @@ body {
     color: #fff;
     background-color: #000;
     border-color: #000;
+
 }
 
 
     #model {
-    background-color: #fff;      
+    background-color: #fff; 
+
 }
 
 .btn btn-primary {
     padding-left: 5px;
+
 }
 
 img-fluid. {
     max-width: 100%;
     height: auto;
+
 }   
 
 .container-fluid {
     text-align: center;
+
 }
 
 .jumbotron-fluid {
     text-align: center;
+
+}
+
+.footer {
+
+    position: absolute; 
+    bottom: 0; 
+    left: 0; 
+    z-index: 10;
+
 }
