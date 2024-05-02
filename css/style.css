@@ -50,24 +50,14 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-}
-
-
-
-.container-c {
-
-
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: contain;
 
     display: flex;
     align-items: center;
     justify-content: center;
 
-    position: relative; 
+    position: relative;
 }
+
 
 .container-d {
     background-color:#000;
