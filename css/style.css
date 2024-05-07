@@ -7,6 +7,10 @@
 font-family: ubuntu, sans-serif;
 }
 
+.container {
+padding: 0 15px;
+}
+
 .btn-success {
 
 color: #fff;
