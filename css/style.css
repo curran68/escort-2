@@ -3,8 +3,32 @@
     padding: 0;
 }
 
+.navbar-dark .navbar-brand {
+    color: #ffc107;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #ffc107;
+}
+
+.jumbotron {
+    height: 30px;
+    background-color: transparent;
+}
+
+.jumbotron-fluid {
+        padding-right: 0;
+        padding-left: 0;
+        border-radius: 0;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        
+}    
+
+
 .body {
 font-family: ubuntu, sans-serif;
+background-color: transparent;
 }
 
 .container {
