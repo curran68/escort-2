@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 .body {
 font-family: ubuntu, sans-serif;
 }
@@ -17,4 +22,8 @@ border-color: #2849a7;
     justify-content: center;
 
     position: absolute;
+}
+
+.img-fluid {
+    height 100vh;
 }
