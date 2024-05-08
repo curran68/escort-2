@@ -16,7 +16,10 @@
     color: #ffc107;
     font-size: large;
 }
-        
+
+.heading {
+    margin-top: 1.5rem;
+}
 
 .btn-success {
 
