@@ -5,6 +5,7 @@
 
 .body {
     font-family: ubuntu, sans-serif;
+    background-color: e9ecef;
 }   
 
 .navbar-dark .navbar-brand {
@@ -38,3 +39,18 @@ border-color: #2849a7;
 
 }
 
+/* Car Models */
+
+.btn-primary {
+
+    color: #fff;
+    background-color: #0062cc;
+    border-color: #005cbf;
+    float: left;
+    
+}
+
+img {
+    vertical-align: middle;
+    border-style: solid;
+}
