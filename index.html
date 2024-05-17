@@ -10,7 +10,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Ubuntu+Sans:ital,wght@0,100..800;1,100..800&display=swap"
     rel="stylesheet">
-  <link rel="stylesheet" href="css/style.css" type="text/css">
+  <link rel="stylesheet" href="/css/style.css" type="text/css">
 </head>
 <!--head-->
 
@@ -25,9 +25,29 @@
         <li class="nav-item mr-2"><a class="nav-link" href="RSMexico.html">RSMexico</a></li>
         <li class="nav-item mr-2"><a class="nav-link" href="RS1800.html">RS1800</a></li>
         <li class="nav-item mr-2"><a class="nav-link" href="RS2000.html">RS2000</a></li>
-        <li class="nav-item mr-2"><a class="nav-link" href="Contact.html">Contact</a></li>
+        <!--<li class="nav-item mr-2"><a class="nav-link" href="Contact.html">Contact</a></li>-->
+        <button type="button" class="btn btn-warning" data-toggle="modal" data-target="#myModal">Contact</button>
       </ul>
-    </div>
+      <div class="container"></div>
+        <div class="modal fade" id="myModal" role="dialog">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Modal Header</h4>
+              </div>
+              <div class="modal-body">
+                <p>Some text in the modal.</p>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+              </div>
+            </div>
+            
+          </div>
+        </div>
+        
+      </div>
   </nav>
   <!--nav-bar-->
   <div class="container-fluid heading">
