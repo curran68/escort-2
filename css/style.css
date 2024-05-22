@@ -65,4 +65,9 @@ img {
     margin-right: auto;
     margin-left: auto;
     font-size: large;
+    border: 1px;
+}
+
+.social networks {
+    display: inline;
 }
