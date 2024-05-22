@@ -1,3 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+    font-family: ubuntu, sans-serif;
+    background-color: e9ecef;
+} 
+
+/* navbar */
+
 .navbar-dark .navbar-brand {
     color: #ffc107;
     font-size: large;
@@ -7,3 +19,23 @@
     color: #ffc107;
     font-size: large;
 }
+
+/* navbar*/
+
+/* modal */
+
+.btn-success {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.container-b {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+/* modal */
