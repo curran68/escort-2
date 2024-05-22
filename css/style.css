@@ -1,0 +1,9 @@
+.navbar-dark .navbar-brand {
+    color: #ffc107;
+    font-size: large;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #ffc107;
+    font-size: large;
+}
