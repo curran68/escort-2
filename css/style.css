@@ -8,6 +8,14 @@
     background-color: e9ecef;
 } 
 
+/* header */
+
+.media {
+    background-color: e9ecef;
+}
+
+/* header */
+
 /* navbar */
 
 .navbar-dark .navbar-brand {
@@ -34,6 +42,10 @@
     border: 1px;
 }
 
+.img {
+    border: 1px;
+}
+
 /* body */
 
 /* modal */
@@ -53,3 +65,7 @@
 }
 
 /* modal */
+
+.social {
+    display: inline;
+}
