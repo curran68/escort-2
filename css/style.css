@@ -10,9 +10,6 @@
 
 /* header */
 
-.media {
-    background-color: e9ecef;
-}
 
 /* header */
 
@@ -32,19 +29,7 @@
 
 /* body */
 
-.img-fluid {
-    width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
-    font-size: large;
-    border: 1px;
-}
 
-.img {
-    border: 1px;
-}
 
 /* body */
 
@@ -66,6 +51,3 @@
 
 /* modal */
 
-.social {
-    display: inline;
-}
