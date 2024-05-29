@@ -1,22 +1,13 @@
-* {
-    margin: 0;
-    padding: 0;
-}
 
-.body {
+body {
     font-family: ubuntu, sans-serif;
     background-color: e9ecef;
 } 
 
-/* header */
 
 .media-body {
     background-color:#fff;
 }
-
-/* header */
-
-/* navbar */
 
 .navbar-dark .navbar-brand {
     color: #ffc107;
@@ -28,23 +19,11 @@
     font-size: large;
 }
 
-/* navbar*/
-
-/* body */
-
-
-
-/* body */
-
-/* modal */
-
 .btn-success {
     color: #fff;
     background-color: #007bff;
     border-color: #007bff;
 }
-
-
 
 .container-b {
     display: flex;
@@ -52,5 +31,5 @@
     justify-content: center;
 }
 
-/* modal */
+
 
