@@ -40,6 +40,9 @@ body {
     border-color: #c3e6cb;
 } 
 
-
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
 
 
