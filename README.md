@@ -27,7 +27,39 @@ RS 2000
 </details>
 
 ***
-Design
+
+# Target audience:
+
+Car enthusiasts who also have a keen interest in this great car.
+It can be accessed from anywhere as this will cover a very wide audience.
+I have the intention of expanding the website further, intending on adding more of the vehicle images for each model.
+Expanding further on design and implentation with more submission features and newsletter features.
+
+
+# User stories:
+
+* New user will be able to learn a little more about the different RS(rallye sport) models of this car.
+    <br>
+    This was made possible by creating a striking nav-bar for easy selection of the required model.
+
+* New user will be able to navigate and look at the different models.
+    <br>
+    By using uniformed layout easy to switch between pages
+
+* New user will be able to select the favourite of the three models covered.
+    <br>
+    At the footer end of the landing page, there is a modal selector which allows a user to select there favourite.
+
+# My aims in this site:
+
+* To share my love of this great car.
+* To follow a responsive mobile first approach.
+* To use striking colours and layout.
+<br>
+These aims were achieved by designing a colourful, striking and easy to follow nav-bar using a combination of HTML, CSS and Bootstrap 4.3.1.
+Extensive testing and practice allowed this.
+
+# Design
 
 This is my first full website project, consisting of four pages :-
 
@@ -53,6 +85,8 @@ In the undertaking of this process i made several changes along the way using th
 Within the nav-bar i have included a contact modal code used from Bootstrap this i feel stands out.
 
 ***
+
+# Wireframes
 
 Below are my wireframes which show my idea/layout.
 **Wireframes**
@@ -97,23 +131,14 @@ Model of car page
 Along the way i did encounter many issues in the layout and design, resolution and fixes were aided by the use of Dev. tools within Chrome.
 Planning the website from the start i aimed for a responsive theme which has been regularly tested on a mobile device to check for issues and correct layout.
 I have also included on the landing page, above the footer a modal to select your favourite model.
-This website has been tested in different browsers the se include :-
+This website has been tested in different browsers these include :-
 
 Google Chrome,
 Mozilla Firefox,
 Safari and 
 Vivaldi.
 
-Target audience:
-
-Car enthusiasts who also have a keen interest in this great car.
-Anywhere in the world it can be accessed.
-
-User stories:
-
-New user will be able to learn a little more about the different RS(rallye sport) models of this car.
-New user will be able to navigate and look at the different models.
-New user will be able to select the favourite of the three models covered.
+***
 
 My aims in this site:
 
