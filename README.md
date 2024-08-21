@@ -165,8 +165,24 @@ Firefox,
 Vivaldi,
 and Safari.
 
+# How this site was deployed
 
+In the GitHub repository, navigate to the Settings tab, then choose Pages from the left hand menu
+From the source section drop-down menu, select the Master Branch
+Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment
+Any changes pushed to the master branch will take effect on the live project
+The live link can be found here - https://curran68.github.io/escort-2/
 
+# How to clone the repository
+
+Go to the  on GitHub
+Click the "Code" button to the right of the screen, click HTTPs and copy the link there
+Open a GitBash terminal and navigate to the directory where you want to locate the clone
+On the command line, type "git clone" then paste in the copied url and press the Enter key to begin the clone process
+
+<br>
+
+# References/Resources
 
 * Icons used are from [Font Awesome](https://www.fontawesome.com)
 * All fonts were imported from [Google Fonts](https://fonts.google.com/)
